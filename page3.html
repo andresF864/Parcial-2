@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Proyectos</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="styles.css" />
+    <script type="module" src="script.js"></script>
+  </head>
+  <body>
+    <nav>
+      <a href="/">Inicio</a>
+      <a href="/page2.html">Proyectos</a>
+      <a href="/page3.html" aria-current="page">Git Ignore</a>
+    </nav>
+    <main>
+      <div class="container">
+        <div class="title">
+            <h1>GiT Ignore</h1>
+            <h3>Tutorial paso a paso</h3>
+        </div>
+        <div class="content2">
+            <p>Paso 1: Crear o editar el archivo .gitignore<br>
+                El archivo .gitignore debe estar en el directorio raíz de tu repositorio. Si no existe, créalo.<br>
+                Ejemplo de comando:<br>
+                touch .gitignore<br>
+                Abre el archivo .gitignore con un editor de texto o tu IDE preferido.<br>
+                Ejemplo de comando:<br>
+                nano .gitignore</p>
+      </div>
+      <div class="content2">
+        <p>Paso 2: Añadir reglas para ignorar archivos de imágenes y videos<br>
+            Para evitar que Git haga seguimiento de ciertos tipos de archivos, debes añadir patrones en .gitignore. Para ignorar todos los archivos .jpg en cualquier parte del repositorio, añade:<br>
+            *.jpg
+            Ignorar archivos .mp3: Para ignorar todos los archivos .mp3, añade:<br>
+            *.mp3<br>
+            Ignorar otros tipos de archivos: Puedes añadir más extensiones según sea necesario. Aquí tienes un ejemplo para otros tipos de archivos de imágenes y videos:<br>
+            # Imágenes<br>
+            *.jpg<br>
+            *.jpeg<br>
+            *.png<br>
+            *.gif<br>
+            *.svg<br>
+            
+            # Videos<br>
+            *.mp4<br>
+            *.avi<br>
+            *.mov<br>
+            *.mkv<br>
+            
+            # Audios<br>
+            *.mp3<br>
+            *.wav<br>
+            *.flac<br>
+            Ignorar carpetas completas: Si quieres ignorar una carpeta completa (por ejemplo, media), añade:<br>
+            media/</p>
+
+        </div>
+        <div class="content2">
+                <p>Paso 3: Asegurarte de que Git ignore estos archivos<br>
+                    Los archivos que aún no han sido agregados al repositorio se ignorarán automáticamente si coinciden con las reglas del .gitignore.<br>
+                    Si ya has agregado y confirmado estos archivos, Git seguirá haciéndoles seguimiento, incluso si están en .gitignore. Para detener el seguimiento, haz lo siguiente:<br>
+                    Eliminar archivos del seguimiento, pero no del sistema:<br>
+                    git rm --cached *.jpg<br>
+                    git rm --cached *.mp3<br>
+                    Agregar los cambios:<br>
+                    git add .gitignore<br>
+                    git commit -m "Ignorar archivos de imágenes y videos"<br>
+                </p>
+            </div>
+        <div class="content2">
+                    <p>
+                        Paso 4: Confirmar y probar <br>
+                        Confirma: Confirma los cambios realizados en el archivo .gitignore.<br>
+                        Comando:<br>
+                        git add .gitignore<br>
+                        git commit -m "Añadir reglas para ignorar imágenes y videos"<br>
+                        Prueba: Crea un archivo .jpg o .mp3 en tu repositorio y verifica que Git no lo incluya en la lista de archivos no confirmados:<br>
+                        Comando:<br>
+                        Deberías ver que los archivos .jpg y .mp3 no aparecen en la salida del comando git status.
+                    </p>
+                </div>
+       
+  </div>
+    </main>
+  </body>
+</html>
