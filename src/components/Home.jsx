@@ -13,7 +13,7 @@ function Home() {
       <div className="content2">
         <p>HARD SKILLS:</p>
         <p>- Manejo del idioma inglés</p>
-        <p>- Adecuado manejo de la Suite de Adobe</p>
+        <p>- Adecuado manejo de la Suite de Adobee</p>
         <p>- Modelado 3D con texturizado y Render</p>
         <p>- Producción de contenido en Unity</p>
         <p>- Producción Audiovisual</p>
