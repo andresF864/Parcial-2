@@ -5,7 +5,6 @@ function Projects() {
     <div className="container">
       <div className="title">
         <h1>Proyectos</h1>
-        <h3>Clase de Desarrollo Web</h3>
       </div>
       <div className="content">
         <p>Práctica HTML + Media Query-Pagina Responsive</p>
