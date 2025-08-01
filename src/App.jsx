@@ -11,13 +11,13 @@ function App() {
       <nav>
         <Link to="/">Inicio</Link>
         <Link to="/projects">Proyectos</Link>
-        <Link to="/gitignore">Instrucciones GitIgnore</Link> 
+        {/* <Link to="/gitignore">Instrucciones GitIgnore</Link> */}
       </nav>
       <main>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/projects" element={<Projects />} />
-          <Route path="/gitignore" element={<GitIgnoreInstructions />} />
+          {/* <Route path="/gitignore" element={<GitIgnoreInstructions />} /> */}
         </Routes>
       </main>
     </Router>

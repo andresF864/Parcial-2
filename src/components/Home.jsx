@@ -8,8 +8,8 @@ function Home() {
         <h3>Andres Felipe De La Cruz Uloa</h3>
       </div>
       <div className="content">
-      <img className="imge" src="https://scontent.fpei2-1.fna.fbcdn.net/v/t39.30808-6/339457707_625032566157610_1632028288582428878_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFFhCilqV8ZQV_NmBaFRi9lczWXiJIQTyxzNZeIkhBPLBwRqCl8oEcppSBeLiqVOkee6kv13vELDbtGu8VuXmt2&_nc_ohc=y-utRGQLg24Q7kNvgFAQ2mt&_nc_ht=scontent.fpei2-1.fna&_nc_gid=ANIqOT0pQCEVs-z0kGNfOIH&oh=00_AYA44xBvg_4_GeIsU84et2dTVgOmf3EIAznFAR0RrNgIZg&oe=67025746" alt="Foto de Andres"/>
-        <p>Ingeniero Multimedia, de la Universidad Autonoma de Occidente con experiencia en proyectos que integran diferentes tipos de metodologías de diseño e inclusión de contenidos diversos, tales como: imágenes, video, gráficos, sonido y animación.</p>
+      <img className="imge" src="https://instagram.fclo3-2.fna.fbcdn.net/v/t51.2885-19/283627621_401368778545953_2747038346111575136_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fclo3-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QG_mAbS6zk8BPmW3c9q4sgfXsOgoaqjjW-Ms47mkVHWu-bSRvbAvQCVDKNHj7dwQz0&_nc_ohc=0E2M5MZM3W0Q7kNvwGFf6OF&_nc_gid=r_VROPCoAXlzHe_tSAfjqw&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfQezaGq3WzjQ64C7mbGrx0RUil_MJ5uw74WybRt3hhz-g&oe=6892963C&_nc_sid=7a9f4b" alt="Foto de Andres"/>
+        <p>Estudiante de ingeniería multimedia en la Universidad Autónoma de Occidente con experiencia en proyectos que integran diferentes tipos de metodologías de diseño e inclusión de contenidos diversos, tales como: imágenes, video, gráficos, sonido y animación.</p>
       </div>
       <div className="content2">
         <p>HARD SKILLS:</p>
@@ -18,18 +18,16 @@ function Home() {
         <p>- Modelado 3D con texturizado y Render</p>
         <p>- Producción de contenido en Unity</p>
         <p>- Producción Audiovisual</p>
+        <p>- Manejo de bases de datos SQL y NoSQL</p>
+        <p>- Diseño de páginas web</p>
       </div>
       <div className="content3">
         <p>SOFT SKILLS:</p>
-        <p>- Manejo de bases de datos SQL y NoSQL</p>
-        <p>- Diseño de páginas web</p>
         <p>- Procesamiento de Señales</p>
-        <p>- Arquitecturas de Hardware</p>
-        <p>- Procesos estadísticos</p>
       </div>
       <div className="content4">
         <p>Información de Contacto</p>
-        <p>Tel: 3217065018</p>
+        <p>Tel: 3116071850</p>
         <a href="https://www.instagram.com/andresf_864/" className="subtitle">Instagram</a>
       </div>
     </div>
