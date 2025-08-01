@@ -19,14 +19,13 @@ function Projects() {
         <img className="imge" src="https://preview.redd.it/nnz1wsv4wfgf1.png?width=1080&crop=smart&auto=webp&s=668eb9d5acb10c7b7955c0b3577e4a52b813bd1b" alt="Imagen de la interfaz de la App" />
       </div>
       <div className="content">
-        <p>Numeros Iguales y Cual es el Mayor</p>
-        <a href="https://github.com/andresF864/javascript-2.git" className="subtitle">GitHub</a>
-        <img className="imge" src="https://preview.redd.it/trabajos-web-v0-345p7jz19ksd1.png?width=663&format=png&auto=webp&s=b9d89e52688064785ebfed620a00247253c0b072" alt="Imagen de la consola" />
+        <p>Animacion 3D</p>
+        <a href="https://youtu.be/vpArY6-Ar0U" className="subtitle">Youtube</a>
+        <img className="imge" src="https://preview.redd.it/adokhxb42ggf1.png?width=1080&crop=smart&auto=webp&s=ee08a0149c4595e83b4f1837fd2d17ed503e944b" alt="Imagen de la consola" />
       </div>
       <div className="content">
-        <p>Cards</p>
-        <a href="https://github.com/andresF864/Cards.git" className="subtitle">GitHub</a>
-        <img className="imge" src="https://preview.redd.it/trabajos-web-v0-qfqi6fz19ksd1.png?width=1017&format=png&auto=webp&s=ab7ee0c9bcfd3084d5b497eeb50d92316bf5a64c" alt="Imagen de la consola" />
+        <p>Motion Graphics</p>
+        <a href="https://youtube.com/shorts/aqFOBk7W-_E?feature=shared" className="subtitle">Youtube</a>
       </div>
     </div>
   );
