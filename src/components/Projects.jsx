@@ -20,11 +20,13 @@ function Projects() {
       </div>
       <div className="content">
         <p>Animacion 3D</p>
+        <p>Rol: Autor</p>
         <a href="https://youtu.be/vpArY6-Ar0U" className="subtitle">Youtube</a>
         <img className="imge" src="https://preview.redd.it/adokhxb42ggf1.png?width=1080&crop=smart&auto=webp&s=ee08a0149c4595e83b4f1837fd2d17ed503e944b" alt="Imagen de la consola" />
       </div>
       <div className="content">
         <p>Motion Graphics</p>
+        <p>Rol: Autor</p>
         <a href="https://youtube.com/shorts/aqFOBk7W-_E?feature=shared" className="subtitle">Youtube</a>
       </div>
     </div>
