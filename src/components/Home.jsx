@@ -8,7 +8,7 @@ function Home() {
         <h3>Andres Felipe De La Cruz Uloa</h3>
       </div>
       <div className="content">
-      <img className="imge" src="https://instagram.fclo3-2.fna.fbcdn.net/v/t51.2885-19/283627621_401368778545953_2747038346111575136_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fclo3-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QG_mAbS6zk8BPmW3c9q4sgfXsOgoaqjjW-Ms47mkVHWu-bSRvbAvQCVDKNHj7dwQz0&_nc_ohc=0E2M5MZM3W0Q7kNvwGFf6OF&_nc_gid=r_VROPCoAXlzHe_tSAfjqw&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfQezaGq3WzjQ64C7mbGrx0RUil_MJ5uw74WybRt3hhz-g&oe=6892963C&_nc_sid=7a9f4b" alt="Foto de Andres"/>
+      <img className="imge" src="https://lh3.googleusercontent.com/a/ACg8ocLqD0Hdi6EJIpKOEzjb8t2-n5z_87GR-_mlX9h5-2x7FKzXsQo=s288-c-no" alt="Foto de Andres"/>
         <p>Estudiante de ingeniería multimedia en la Universidad Autónoma de Occidente con experiencia en proyectos que integran diferentes tipos de metodologías de diseño e inclusión de contenidos diversos, tales como: imágenes, video, gráficos, sonido y animación.</p>
       </div>
       <div className="content2">
