@@ -37,7 +37,6 @@ function Home() {
         <p>Información de Contacto</p>
         <p>Tel: 3116071850</p>
         <a href="https://www.instagram.com/andresf_864/" className="subtitle">Instagram</a>
-        <br />
         <a href="https://www.linkedin.com/in/andres-de-la-cruz-ulloa-64846121b" className="subtitle">Linkedin</a>
       </div>
     </div>
