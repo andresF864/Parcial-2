@@ -5,10 +5,10 @@ function Home() {
     <div className="container">
       <div className="title">
         <h1>Portafolio</h1>
-        <h3>Andres Felipe De La Cruz Uloa</h3>
+        <h3>Andres Felipe De La Cruz Ulloa</h3>
       </div>
       <div className="content">
-      <img className="imge" src="https://preview.redd.it/n5b2k59hhfgf1.png?width=317&format=png&auto=webp&s=70020fd3e17ce99bde7a85c9e518177e29eb2ad9" alt="Foto de Andres"/>
+      <img className="imge" src="https://preview.redd.it/bpbaiarnofgf1.jpg?width=640&crop=smart&auto=webp&s=cf21b8a778e8f92586a9b1bb263e483a4385421b" alt="Foto de Andres"/>
         <p>Estudiante de ingeniería multimedia en la Universidad Autónoma de Occidente con experiencia en proyectos que integran diferentes tipos de metodologías de diseño e inclusión de diversos contenidos multimedia, tales como: imágenes, video, gráficos, sonido y animación.</p>
       </div>
       <div className="content2">
