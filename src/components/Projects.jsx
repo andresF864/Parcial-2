@@ -7,14 +7,16 @@ function Projects() {
         <h1>Proyectos</h1>
       </div>
       <div className="content">
-        <p>Práctica HTML + Media Query-Pagina Responsive</p>
-        <a href="https://github.com/andresF864/Tarea.git" className="subtitle">GitHub</a>
-        <img className="imge" src="https://preview.redd.it/trabajos-web-v0-ijkpiiz19ksd1.png?width=1871&format=png&auto=webp&s=35ed2e83fe6443277419ceedd911ee5a5224625b" alt="Imagen de html básico" />
+        <p>Práctica para bombreos en Realidad Virtual</p>
+        <p>Roles: Programador, Diseñador VFX y Diseño de mecánicas</p>
+        <a href="https://github.com/Salomon-David123/vr_parciar_3" className="subtitle">GitHub</a>
+        <img className="imge" src="https://preview.redd.it/uoo0edl8ufgf1.png?width=1080&crop=smart&auto=webp&s=097fc94f0a4edc2b527f953fd79a12c9d8823ef6" alt="Imagen de poyecto RV" />
       </div>
       <div className="content">
-        <p>Formulario de Registro y Recuperación de Contraseñas UAO</p>
-        <a href="https://github.com/edwinmgallego/clase-practica-css.git" className="subtitle">GitHub</a>
-        <img className="imge" src="https://preview.redd.it/trabajos-web-v0-3ypodiz19ksd1.png?width=752&format=png&auto=webp&s=7a15cc69e8f41e307540f23df28d34114a8d9576" alt="Imagen del Formulario" />
+        <p>Aplicacion para restaurar imagenes antiguas</p>
+        <p>Roles: Programador de las funciones principales y encargado de la implementación de librerías</p>
+        <a href="https://github.com/andresF864/Proyecto-PDI" className="subtitle">GitHub</a>
+        <img className="imge" src="https://preview.redd.it/nnz1wsv4wfgf1.png?width=1080&crop=smart&auto=webp&s=668eb9d5acb10c7b7955c0b3577e4a52b813bd1b" alt="Imagen de la interfaz de la App" />
       </div>
       <div className="content">
         <p>Numeros Iguales y Cual es el Mayor</p>
